@@ -1,6 +1,6 @@
 # Facebook DID Method Specification
 
-**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs. Personally, I think it is a contradiction to base DIDs on central registries or platforms such as Facebook or DNS (also see the Abstract of the DID Spec).**
+**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs. Personally, I think it is a contradiction to base DIDs on central registries or platforms such as Facebook or DNS (also see the Abstract of the [DID spec](https://w3c-ccg.github.io/did-spec/)).**
 
 ## Author
 
@@ -88,7 +88,7 @@ retrieving and parsing Facebook posts is a decision that is left to the implemen
 
 ### Update
 
-The update the DID Document, the DID Document posted on the Facebook wall is edited and re-published.  
+To update the DID Document, the DID Document posted on the Facebook wall is edited and re-published.  
 Please note that the DID will remain the same, but 
 the contents of the DID Document could change, e.g., by including a new verification key or adding service endpoints.  
 
