@@ -98,4 +98,4 @@ To deactivate the DID, the post containing the DID Document is removed from the 
 
 ## Security Considerations
 
-Facebook could manipulate your DID Document and track clients that resolve your DID.
+Facebook could manipulate your DID Document and track clients that resolve your DID, but they would never do that, right?
