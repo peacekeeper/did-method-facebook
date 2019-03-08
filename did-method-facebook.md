@@ -1,6 +1,6 @@
 # Facebook DID Method Specification
 
-**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs.**
+**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs. Personally, I think it is a contradiction to base DIDs on central registries or platforms such as Facebook or DNS (also see the Abstract of the DID Spec).**
 
 ## Author
 
