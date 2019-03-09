@@ -1,6 +1,6 @@
 # Facebook DID Method Specification
 
-**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs. Personally, I think it is a contradiction to base DIDs on central registries or platforms such as Facebook or DNS (also see the Abstract of the [DID spec](https://w3c-ccg.github.io/did-spec/)).**
+**NOTE: This is not a serious proposal for a new DID method, but rather a thought experiment about the nature and objectives of DIDs. Personally, I think it is a contradiction to base DIDs on central registries or platforms such as Facebook or DNS (also see the Abstract of the [DID spec](https://w3c-ccg.github.io/did-spec/) and the original [DPKI paper](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/dpki.pdf)).**
 
 ## Author
 
